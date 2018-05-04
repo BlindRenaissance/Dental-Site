@@ -1,0 +1,55 @@
+.tweak-index-gallery-content-position-top-left .Index-gallery-item-inner:before, .tweak-index-gallery-content-position-top-center .Index-gallery-item-inner:before, .tweak-index-gallery-content-position-top-right .Index-gallery-item-inner:before{
+  vertical-align: middle!important;
+}
+.tweak-index-gallery-content-position-top-left .Index-gallery-item-content, .tweak-index-gallery-content-position-top-center .Index-gallery-item-content, .tweak-index-gallery-content-position-top-right .Index-gallery-item-content{
+  vertical-align: middle!important;
+}
+.Index-gallery-item-content-heading{
+  font-size:42px;
+  margin-left:30px;
+  color:#ffffff;
+  text-shadow: 1px 1px 4px rgba(0, 0, 0, 1);
+  text-align:center;
+  line-height:1.2em;
+}
+
+.Index-gallery-item-content{
+  position:absolute;
+  top: 80%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color:hsla(0, 0%, 0%, 0.4);
+}
+
+//PEOPLE//
+#dr-matthew-w-fluegge,#breanna-bessette,#jessica-sturtz{
+  background-color: #d3eaf8;
+}
+//services page//
+#teeth-whitening,#sleep-apnea{
+  /* old code - background-color: hsla(122, 61%, 36%, 0.3);*/
+  background-color: #d3eaf8;
+}
+
+//home-services//
+#services-header .Index-page-content{
+  padding:0;
+}
+#block-ee093f9666ca839d6336{
+    margin-top: 110px;
+    display: block;
+    z-index: 1000;
+    position: relative;
+}
+#block-ee093f9666ca839d6336 h1{
+  color:#249628;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, .5);
+  text-align:left;
+  padding-left:20px;
+}
+#home-services{
+  margin-top:-110px;
+}
+#block-daab84743b4daca1e439{
+  text-shadow: 1px 1px 4px rgba(0, 0, 0, 1);
+}
