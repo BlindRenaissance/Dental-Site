@@ -21,13 +21,13 @@
   background-color:hsla(0, 0%, 0%, 0.4);
 }
 
-//PEOPLE//
+/*PEOPLE*/
 #dr-matthew-w-fluegge,#breanna-bessette,#jessica-sturtz{
   background-color: #ffffff;
 }
 
 
-//home-services//
+/*home-services*/
 #services-header .Index-page-content{
   padding:0;
 }
@@ -50,11 +50,12 @@
   text-shadow: 1px 1px 4px rgba(0, 0, 0, 1);
 }
 
-//mobile logo size//
+/*mobile logo size*/
 .Mobile-bar-branding-logo {
     width: 160px;
 }
 
+/*Services Section on Home*/
 #services-1 .Index-page-content{
   padding: 0;
 }
