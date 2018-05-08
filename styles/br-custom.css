@@ -65,3 +65,11 @@
 #services-1{
   background-color: #edece8;
 }
+
+/*Mobile Font Fix*/
+@media screen and (max-width: 640px){
+h1 {
+    font-size: 68px!important;
+    line-height: 72px;
+  }
+}
