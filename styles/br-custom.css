@@ -50,7 +50,17 @@
   text-shadow: 1px 1px 4px rgba(0, 0, 0, 1);
 }
 
-//mobile logo size
+//mobile logo size//
 .Mobile-bar-branding-logo {
     width: 160px;
+}
+
+#services-1 .Index-page-content{
+  padding: 0;
+}
+#block-yui_3_17_2_1_1525799606055_3974{
+  padding: 0!important;
+}
+#services-1{
+  background-color: #c3beb1;
 }
