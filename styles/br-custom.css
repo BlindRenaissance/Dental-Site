@@ -67,7 +67,7 @@
 }
 
 /*Mobile Font Fix*/
-@media screen and (max-width: 640px){
+@media screen and (max-width: 1000px){
 h1 {
     font-size: 68px!important;
     line-height: 72px;
