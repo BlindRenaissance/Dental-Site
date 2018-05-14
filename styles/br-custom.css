@@ -26,6 +26,10 @@
   background-color: #edece8;
 }
 
+/*mobile logo size */
+.Mobile-bar-branding-logo{
+  width: 160px!important;
+}
 
 /*home-services*/
 #services-header .Index-page-content{
