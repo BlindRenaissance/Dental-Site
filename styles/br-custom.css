@@ -50,11 +50,6 @@
   text-shadow: 1px 1px 4px rgba(0, 0, 0, 1);
 }
 
-/*mobile logo size*/
-.Mobile-bar-branding-logo {
-    width: 160px;
-}
-
 /*Services Section on Home*/
 #services-1 .Index-page-content{
   padding: 0;
