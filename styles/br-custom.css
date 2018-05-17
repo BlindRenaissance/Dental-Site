@@ -32,6 +32,23 @@
 }
 
 /*Services Section on Home*/
+#Our-Services-H {
+  text-align: center;
+  resize: vertical;
+}
+
+@media screen and (max-width:915px) {
+  #Our-Services-H {
+    font-size: 60px;
+  }
+}
+
+@media screen and (max-width:695px) {
+  #Our-Services-H {
+    margin-top: 60px;
+  }
+}
+
 #services-header .Index-page-content{
   padding:0;
 }
