@@ -76,7 +76,7 @@
   min-height: 518px!important;
 }
 
-#services-1 .slide content-fill {
+#services-1 .slide .content-fill {
   overflow: hidden;
 }
 
