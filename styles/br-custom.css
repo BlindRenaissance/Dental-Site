@@ -76,3 +76,9 @@ h1 {
 .shadowed{
   text-shadow: 2px 2px 2px rgba(0, 0, 0, .5);
 }
+
+/*footer text*/
+.footer-text{
+  text-align: center;
+  font-size: 14px;
+}
