@@ -37,6 +37,14 @@
   resize: vertical;
 }
 
+#Our-Services-C {
+  height: 500px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  resize:vertical;
+}
+
 @media screen and (max-width:915px) {
   #Our-Services-H {
     font-size: 60px;
